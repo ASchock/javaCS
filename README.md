@@ -22,6 +22,3 @@
 
 #### Running the client
 1. Run the java class at [src/client/Main.java](/src/client/Main.java)
-
-#### Client
-https://www.codementor.io/adamschock
